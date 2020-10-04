@@ -1,7 +1,6 @@
 numpy
 matplotlib
 bqplot
-scipy
 IPython
-ipyvolume
+tqdm
 ipywidgets
